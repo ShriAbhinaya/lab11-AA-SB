@@ -1,3 +1,6 @@
+# https://github.com/ShriAbhinaya/lab11-AA-SB
+#Partner 1: Andrea
+#Partner 2: Shri
 """
 calculator.py
 - Defines functions used to create a simple calculator
