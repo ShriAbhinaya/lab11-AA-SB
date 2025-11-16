@@ -37,4 +37,13 @@ def logarithm(a,b):
 def exponent(a,b):
     return a ** b
 
-
+def sub(a, b):
+    return subtract(a, b)
+def mul(a, b):
+    return multiply(a, b)
+def div(a, b):
+    return divide(a, b)
+def log(a, b):
+    return logarithm(a, b)
+def exp(a, b):
+    return exponent(a, b)
